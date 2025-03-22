@@ -1,7 +1,7 @@
 # Go OpenAI
 [![Go Reference](https://pkg.go.dev/badge/github.com/ElvinEga/go-openai.svg)](https://pkg.go.dev/github.com/ElvinEga/go-openai)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ElvinEga/go-openai)](https://goreportcard.com/report/github.com/ElvinEga/go-openai)
-[![codecov](https://codecov.io/gh/sashabaranov/go-openai/branch/master/graph/badge.svg?token=bCbIfHLIsW)](https://codecov.io/gh/sashabaranov/go-openai)
+[![codecov](https://codecov.io/gh/ElvinEga/go-openai/branch/master/graph/badge.svg?token=bCbIfHLIsW)](https://codecov.io/gh/ElvinEga/go-openai)
 
 This library provides unofficial Go clients for [OpenAI API](https://platform.openai.com/). We support:
 
